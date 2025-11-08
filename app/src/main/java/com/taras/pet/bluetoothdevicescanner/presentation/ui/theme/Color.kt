@@ -1,4 +1,4 @@
-package com.taras.pet.bluetoothdevicescanner.ui.theme
+package com.taras.pet.bluetoothdevicescanner.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
